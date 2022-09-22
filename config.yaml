@@ -17,9 +17,9 @@ menu:
       name: Acerca de 
       url: /about 
       weight: 50 
-    - identifier: curriculum 
-      name: Curriculum 
-      url: /curriculum 
+    - identifier: blog 
+      name: Blog 
+      url: /blog 
       weight: 50 
     - identifier: viajes 
       name: Viajes 
